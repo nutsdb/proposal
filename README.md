@@ -1,1 +1,1 @@
-# proposals
+# NutsDB proposals
